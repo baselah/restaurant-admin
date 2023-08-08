@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to bottom right, #f7f7f7, #8ef071);
+    background-attachment: fixed;}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container-fluid img {
+    height: 10%;
+}
+
+.product-name {
+    color: #36eb1e;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.product-description {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+
+.product-price {
+    color: #c00;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.product-features {
+    color: #666;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.reviews {
+    margin-top: 20px;
+}
+
+.reviews h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.reviews p {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.reviews p:first-child {
+    margin-top: 0;
+}

@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to bottom right, #f7f7f7, #8ef071);
+    background-attachment: fixed;    font-weight: 300;
+}
+.card{
+    margin: 10px;
+}
